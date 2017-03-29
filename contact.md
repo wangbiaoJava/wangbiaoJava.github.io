@@ -4,6 +4,6 @@ title: 联系我
 permalink: /contact/
 ---
 
-邮箱：zgj0315@gmail.com
+邮箱：wangbiao5200@gmail.com
 
-QQ: 22655080
+QQ: 229492022
