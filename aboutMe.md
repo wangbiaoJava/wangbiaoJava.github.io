@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 我是谁
-permalink: /aboutMe/
+permalink: /aboutMe   /
 ---
 
 
