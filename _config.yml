@@ -21,6 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wangbiaoJava
+twitter_username: wangbiaoJava_
 
 # Build settings
 markdown: kramdown
@@ -31,6 +32,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-# pagination
-paginate: 7
+# pagination每页显示多少条
+paginate: 9
 paginate_path: "page:num"
