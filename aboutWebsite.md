@@ -7,7 +7,7 @@ permalink: aboutWebsite
 域名的由来
 ===
 
-我是个80后，本来是要申请after80的，但是被人抢注了，所以，申请了个after90。
+我是个90后，本来是要申请after80的，但是被人抢注了，所以，申请了个after90。
 
 后来发生的很多事证明，我其实是个90后，与90后有了越来越多的联系。
 
@@ -27,7 +27,7 @@ permalink: aboutWebsite
 第三版
 ---
 
-emacs+org-mode直接导出的html属实不好看，被李伟笑话的不行不行的，研究了一个emacs的插件(org-twbs)，生成的html漂亮了些。
+emacs+org-mode直接导出的html属实不好看，研究了一个emacs的插件(org-twbs)，生成的html漂亮了些。
 
 第四版
 ---
